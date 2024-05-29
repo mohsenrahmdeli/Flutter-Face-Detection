@@ -1,5 +1,0 @@
-*.dart linguist-language=Dart
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.c++ linguist-detectable=false
