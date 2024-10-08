@@ -15,7 +15,6 @@ dependencies:
     sdk: flutter
 
 
-
   cupertino_icons: ^1.0.6
   google_ml_kit: ^0.18.0
   image_picker: ^1.1.1
